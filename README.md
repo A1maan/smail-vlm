@@ -1,2 +1,2 @@
-# smail-vlm
+# SMAIL VLM Experiments
 This repo is used to conduct experiments for the VLM research project as part of the SMAIL Research Program.
