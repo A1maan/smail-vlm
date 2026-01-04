@@ -1,0 +1,41 @@
+image_name,prompt,ground_truth,prompt_type,condition,biomedclip_similarity
+normal_1,Is there pneumonia in this X-ray?,False,affirmative,normal,0.404541015625
+normal_1,Is there a pleural effusion in this X-ray?,False,affirmative,normal,0.314208984375
+normal_1,Is there no pneumonia in this X-ray?,True,negated,normal,0.411865234375
+normal_1,Is there no pleural effusion in this X-ray?,True,negated,normal,0.363525390625
+normal_2,Is there pneumonia in this X-ray?,False,affirmative,normal,0.40185546875
+normal_2,Is there a pleural effusion in this X-ray?,False,affirmative,normal,0.342041015625
+normal_2,Is there no pneumonia in this X-ray?,True,negated,normal,0.423095703125
+normal_2,Is there no pleural effusion in this X-ray?,True,negated,normal,0.38720703125
+normal_3,Is there pneumonia in this X-ray?,False,affirmative,normal,0.409423828125
+normal_3,Is there a pleural effusion in this X-ray?,False,affirmative,normal,0.3388671875
+normal_3,Is there no pneumonia in this X-ray?,True,negated,normal,0.41259765625
+normal_3,Is there no pleural effusion in this X-ray?,True,negated,normal,0.374267578125
+normal_4,Is there pneumonia in this X-ray?,False,affirmative,normal,0.394775390625
+normal_4,Is there a pleural effusion in this X-ray?,False,affirmative,normal,0.3388671875
+normal_4,Is there no pneumonia in this X-ray?,True,negated,normal,0.407470703125
+normal_4,Is there no pleural effusion in this X-ray?,True,negated,normal,0.37939453125
+normal_5,Is there pneumonia in this X-ray?,False,affirmative,normal,0.39990234375
+normal_5,Is there a pleural effusion in this X-ray?,False,affirmative,normal,0.33251953125
+normal_5,Is there no pneumonia in this X-ray?,True,negated,normal,0.40625
+normal_5,Is there no pleural effusion in this X-ray?,True,negated,normal,0.366455078125
+pneumonia_1,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,0.404052734375
+pneumonia_1,Is there consolidation in this X-ray?,True,affirmative,pneumonia,0.351318359375
+pneumonia_1,Is there no pneumonia in this X-ray?,False,negated,pneumonia,0.38427734375
+pneumonia_1,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,0.36572265625
+pneumonia_2,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,0.3935546875
+pneumonia_2,Is there consolidation in this X-ray?,True,affirmative,pneumonia,0.35498046875
+pneumonia_2,Is there no pneumonia in this X-ray?,False,negated,pneumonia,0.3916015625
+pneumonia_2,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,0.387451171875
+pneumonia_3,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,0.4013671875
+pneumonia_3,Is there consolidation in this X-ray?,True,affirmative,pneumonia,0.36328125
+pneumonia_3,Is there no pneumonia in this X-ray?,False,negated,pneumonia,0.381591796875
+pneumonia_3,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,0.36376953125
+pneumonia_4,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,0.371826171875
+pneumonia_4,Is there consolidation in this X-ray?,True,affirmative,pneumonia,0.350341796875
+pneumonia_4,Is there no pneumonia in this X-ray?,False,negated,pneumonia,0.3408203125
+pneumonia_4,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,0.3212890625
+pneumonia_5,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,0.360107421875
+pneumonia_5,Is there consolidation in this X-ray?,True,affirmative,pneumonia,0.356201171875
+pneumonia_5,Is there no pneumonia in this X-ray?,False,negated,pneumonia,0.38525390625
+pneumonia_5,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,0.384765625

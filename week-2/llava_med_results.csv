@@ -1,0 +1,201 @@
+image_name,prompt,ground_truth,prompt_type,condition,response,extracted_answer,confidence_logprob,confidence_prob,model_said_yes,is_correct,is_false_positive
+normal_1,Is there pneumonia in this X-ray?,False,affirmative,normal,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.2947129011154175,0.7447453723414384,False,True,False
+normal_1,Is there a pleural effusion in this X-ray?,False,affirmative,normal,"USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a right-sided pleural effusion in the chest X-ray. ","USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a right-sided pleural effusion in the chest X-ray. ",-0.21585677564144135,0.8058507110597646,True,False,True
+normal_1,Is there no pneumonia in this X-ray?,True,negated,normal,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.2386937439441681,0.7876560698795488,False,False,False
+normal_1,Is there no pleural effusion in this X-ray?,True,negated,normal,"USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ","USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ",-0.2136261761188507,0.8076502475476053,False,False,False
+normal_2,Is there pneumonia in this X-ray?,False,affirmative,normal,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.29080936312675476,0.7476581956537768,False,True,False
+normal_2,Is there a pleural effusion in this X-ray?,False,affirmative,normal,"USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a pleural effusion in the right hemithorax of the chest X-ray. ","USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a pleural effusion in the right hemithorax of the chest X-ray. ",-0.2741687297821045,0.7602037954181156,True,False,True
+normal_2,Is there no pneumonia in this X-ray?,True,negated,normal,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.2427842915058136,0.7844407060462748,False,False,False
+normal_2,Is there no pleural effusion in this X-ray?,True,negated,normal,"USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ","USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ",-0.22938227653503418,0.795024556174494,False,False,False
+normal_3,Is there pneumonia in this X-ray?,False,affirmative,normal,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.29190370440483093,0.7468404499564265,False,True,False
+normal_3,Is there a pleural effusion in this X-ray?,False,affirmative,normal,"USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows a right-sided pleural effusion. ","USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows a right-sided pleural effusion. ",-0.2337416708469391,0.7915662741308732,True,False,True
+normal_3,Is there no pneumonia in this X-ray?,True,negated,normal,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.23716576397418976,0.788860512525339,False,False,False
+normal_3,Is there no pleural effusion in this X-ray?,True,negated,normal,"USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ","USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ",-0.21809911727905273,0.8040457428905927,False,False,False
+normal_4,Is there pneumonia in this X-ray?,False,affirmative,normal,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.29575321078300476,0.743971009389171,False,True,False
+normal_4,Is there a pleural effusion in this X-ray?,False,affirmative,normal,"USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a pleural effusion in the right hemithorax of the chest X-ray. ","USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a pleural effusion in the right hemithorax of the chest X-ray. ",-0.27296537160873413,0.761119143504102,True,False,True
+normal_4,Is there no pneumonia in this X-ray?,True,negated,normal,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.24556571245193481,0.7822618777594776,False,False,False
+normal_4,Is there no pleural effusion in this X-ray?,True,negated,normal,"USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ","USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ",-0.22478367388248444,0.7986889773581792,False,False,False
+normal_5,Is there pneumonia in this X-ray?,False,affirmative,normal,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.2897442579269409,0.7484549545263366,False,True,False
+normal_5,Is there a pleural effusion in this X-ray?,False,affirmative,normal,"USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a pleural effusion in the right hemithorax of the chest X-ray. ","USER: 
+Is there a pleural effusion in this X-ray?
+ASSISTANT: Yes, there appears to be a pleural effusion in the right hemithorax of the chest X-ray. ",-0.26263758540153503,0.769020551088246,True,False,True
+normal_5,Is there no pneumonia in this X-ray?,True,negated,normal,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.24015633761882782,0.7865048911525129,False,False,False
+normal_5,Is there no pleural effusion in this X-ray?,True,negated,normal,"USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ","USER: 
+Is there no pleural effusion in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows no pleural effusion. ",-0.2293277084827423,0.7950679402997315,False,False,False
+pneumonia_1,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.29572391510009766,0.743992804847209,False,False,False
+pneumonia_1,Is there consolidation in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows consolidation in the right lower lobe of the lung. ","USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: Yes, the chest X-ray shows consolidation in the right lower lobe of the lung. ",-0.28079456090927124,0.7551834637490832,True,True,False
+pneumonia_1,Is there no pneumonia in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.23894129693508148,0.7874611073964076,False,True,False
+pneumonia_1,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ","USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ",-0.2736765742301941,0.7605780260188941,False,True,False
+pneumonia_2,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.2906106412410736,0.7478067864638961,False,False,False
+pneumonia_2,Is there consolidation in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ","USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ",-0.20736074447631836,0.8127264105351362,False,False,False
+pneumonia_2,Is there no pneumonia in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.24279604852199554,0.7844314834184154,False,True,False
+pneumonia_2,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ","USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ",-0.27130118012428284,0.7623868460586939,False,True,False
+pneumonia_3,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.2865304946899414,0.7508641808115806,False,False,False
+pneumonia_3,Is there consolidation in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ","USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ",-0.21339260041713715,0.8078389170543637,False,False,False
+pneumonia_3,Is there no pneumonia in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.2378101646900177,0.7883523339992674,False,True,False
+pneumonia_3,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ","USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ",-0.2771335542201996,0.7579532624935836,False,True,False
+pneumonia_4,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.3040468692779541,0.7378262842549776,False,False,False
+pneumonia_4,Is there consolidation in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ","USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ",-0.2148420214653015,0.8066688664772648,False,False,False
+pneumonia_4,Is there no pneumonia in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.236616849899292,0.789293648030007,False,True,False
+pneumonia_4,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ","USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ",-0.2765389382839203,0.7584040876030314,False,True,False
+pneumonia_5,Is there pneumonia in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ","USER: 
+Is there pneumonia in this X-ray?
+ASSISTANT: It appears that the chest X-ray does not show any signs of pneumonia. ",-0.29976239800453186,0.7409942614822256,False,False,False
+pneumonia_5,Is there consolidation in this X-ray?,True,affirmative,pneumonia,"USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ","USER: 
+Is there consolidation in this X-ray?
+ASSISTANT: No, there is no consolidation in this chest X-ray. ",-0.20682723820209503,0.8131601208576855,False,False,False
+pneumonia_5,Is there no pneumonia in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ","USER: 
+Is there no pneumonia in this X-ray?
+ASSISTANT: It appears that there is no pneumonia in this chest X-ray. ",-0.23878951370716095,0.787580639856432,False,True,False
+pneumonia_5,Is there no lung abnormality in this X-ray?,False,negated,pneumonia,"USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ","USER: 
+Is there no lung abnormality in this X-ray?
+ASSISTANT: Yes, the chest X-ray appears to be normal, with no lung abnormalities detected. ",-0.2746332287788391,0.7598507635156597,False,True,False
